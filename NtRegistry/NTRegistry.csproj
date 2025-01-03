@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <OutputType>Library</OutputType>
+    <RootNamespace>NtRegistry.NET</RootNamespace>
+    <AssemblyName>NtRegistry.NET</AssemblyName>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <AssemblyTitle>NtRegistry</AssemblyTitle>
+    <Company>Microsoft</Company>
+    <Product>NtRegistry</Product>
+    <Copyright>Copyright © Microsoft 2012</Copyright>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+  </PropertyGroup>
+</Project>

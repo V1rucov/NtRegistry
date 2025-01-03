@@ -1,0 +1,6 @@
+X:\Repos\NtRegistry\NtRegistry\bin\Debug\NtRegistry.NET.dll
+X:\Repos\NtRegistry\NtRegistry\bin\Debug\NtRegistry.NET.pdb
+X:\Repos\NtRegistry\NtRegistry\obj\Debug\NTRegistry.csproj.AssemblyReference.cache
+X:\Repos\NtRegistry\NtRegistry\obj\Debug\NTRegistry.csproj.CoreCompileInputs.cache
+X:\Repos\NtRegistry\NtRegistry\obj\Debug\NtRegistry.NET.dll
+X:\Repos\NtRegistry\NtRegistry\obj\Debug\NtRegistry.NET.pdb

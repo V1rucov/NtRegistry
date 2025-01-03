@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\Repos\\NtRegistry\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10836166-2498-4728-8F18-EF948531915C}|NtRegistry\\NTRegistry.csproj|x:\\repos\\ntregistry\\ntregistry\\ntregistry.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10836166-2498-4728-8F18-EF948531915C}|NtRegistry\\NTRegistry.csproj|solutionrelative:ntregistry\\ntregistry.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10836166-2498-4728-8F18-EF948531915C}|NtRegistry\\NTRegistry.csproj|x:\\repos\\ntregistry\\ntregistry\\ntstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10836166-2498-4728-8F18-EF948531915C}|NtRegistry\\NTRegistry.csproj|solutionrelative:ntregistry\\ntstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10836166-2498-4728-8F18-EF948531915C}|NtRegistry\\NTRegistry.csproj|x:\\repos\\ntregistry\\ntregistry\\ntregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10836166-2498-4728-8F18-EF948531915C}|NtRegistry\\NTRegistry.csproj|solutionrelative:ntregistry\\ntregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10836166-2498-4728-8F18-EF948531915C}|NtRegistry\\NTRegistry.csproj|x:\\repos\\ntregistry\\ntregistry\\ntdll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10836166-2498-4728-8F18-EF948531915C}|NtRegistry\\NTRegistry.csproj|solutionrelative:ntregistry\\ntdll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NTRegistry",
+              "DocumentMoniker": "X:\\Repos\\NtRegistry\\NtRegistry\\NTRegistry.csproj",
+              "RelativeDocumentMoniker": "NtRegistry\\NTRegistry.csproj",
+              "ToolTip": "X:\\Repos\\NtRegistry\\NtRegistry\\NTRegistry.csproj",
+              "RelativeToolTip": "NtRegistry\\NTRegistry.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T12:44:45.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NtDll.cs",
+              "DocumentMoniker": "X:\\Repos\\NtRegistry\\NtRegistry\\NtDll.cs",
+              "RelativeDocumentMoniker": "NtRegistry\\NtDll.cs",
+              "ToolTip": "X:\\Repos\\NtRegistry\\NtRegistry\\NtDll.cs",
+              "RelativeToolTip": "NtRegistry\\NtDll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:44:32.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NtRegistry.cs",
+              "DocumentMoniker": "X:\\Repos\\NtRegistry\\NtRegistry\\NtRegistry.cs",
+              "RelativeDocumentMoniker": "NtRegistry\\NtRegistry.cs",
+              "ToolTip": "X:\\Repos\\NtRegistry\\NtRegistry\\NtRegistry.cs",
+              "RelativeToolTip": "NtRegistry\\NtRegistry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:44:26.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NtStatus.cs",
+              "DocumentMoniker": "X:\\Repos\\NtRegistry\\NtRegistry\\NtStatus.cs",
+              "RelativeDocumentMoniker": "NtRegistry\\NtStatus.cs",
+              "ToolTip": "X:\\Repos\\NtRegistry\\NtRegistry\\NtStatus.cs",
+              "RelativeToolTip": "NtRegistry\\NtStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:44:25.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

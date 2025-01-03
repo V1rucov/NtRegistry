@@ -1,0 +1,9 @@
+X:\Repos\NtRegistry\NtRegistry\bin\Debug\net8.0\NtRegistry.NET.deps.json
+X:\Repos\NtRegistry\NtRegistry\bin\Debug\net8.0\NtRegistry.NET.dll
+X:\Repos\NtRegistry\NtRegistry\bin\Debug\net8.0\NtRegistry.NET.pdb
+X:\Repos\NtRegistry\NtRegistry\obj\Debug\net8.0\NTRegistry.GeneratedMSBuildEditorConfig.editorconfig
+X:\Repos\NtRegistry\NtRegistry\obj\Debug\net8.0\NTRegistry.csproj.CoreCompileInputs.cache
+X:\Repos\NtRegistry\NtRegistry\obj\Debug\net8.0\NtRegistry.NET.dll
+X:\Repos\NtRegistry\NtRegistry\obj\Debug\net8.0\refint\NtRegistry.NET.dll
+X:\Repos\NtRegistry\NtRegistry\obj\Debug\net8.0\NtRegistry.NET.pdb
+X:\Repos\NtRegistry\NtRegistry\obj\Debug\net8.0\ref\NtRegistry.NET.dll
